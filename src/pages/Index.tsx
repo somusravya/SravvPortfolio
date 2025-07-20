@@ -217,7 +217,7 @@ const Index = () => {
               <div className="rounded-xl overflow-hidden aspect-square bg-gradient-to-br from-primary/20 to-pink-400/20 p-1">
                 <div className="rounded-lg overflow-hidden w-full h-full bg-secondary flex items-center justify-center">
                   <img 
-                    src="public/facePhoto.png" 
+                    src="/facePhoto.png" 
                     alt="Somu Geetha Sravya" 
                     className="w-full h-full object-cover"
                   />
