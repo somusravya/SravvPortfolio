@@ -227,7 +227,8 @@ const Index = () => {
             
             <div className="md:col-span-2">
               <p className="text-lg mb-4">
-                I am Somu Geetha Sravya, a passionate Software Engineer with 1.5+ years of experience in developing scalable and efficient software solutions. Currently, I am working at HSBC Technology India, where I specialize in backend development, automation, and cloud technologies.
+                I am Somu Geetha Sravya, a passionate Software Engineer with 1.5+ years of experience in developing scalable and efficient software solutions. Currently, I’m working at HSBC Technology India, where I specialize in backend development, automation, and cloud technologies.
+                I am also currently pursuing my Master’s in Computer Science (MSCS) at the University of Florida, where I’m deepening my focus on algorithms, systems, and AI-driven solutions.
               </p>
               <p className="text-lg">
                 With a strong foundation in Python, Java, and full-stack development, I thrive on building innovative solutions that enhance performance and user experience. My expertise spans data processing, API development, cloud computing (AWS, Azure), and automation.
